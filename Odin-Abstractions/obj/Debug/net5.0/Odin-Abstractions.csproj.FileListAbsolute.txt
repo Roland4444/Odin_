@@ -1,0 +1,12 @@
+/home/roland/aspnetcore/Odin/Odin-Abstractions/bin/Debug/net5.0/Odin-Abstractions.deps.json
+/home/roland/aspnetcore/Odin/Odin-Abstractions/bin/Debug/net5.0/Odin-Abstractions.dll
+/home/roland/aspnetcore/Odin/Odin-Abstractions/bin/Debug/net5.0/ref/Odin-Abstractions.dll
+/home/roland/aspnetcore/Odin/Odin-Abstractions/bin/Debug/net5.0/Odin-Abstractions.pdb
+/home/roland/aspnetcore/Odin/Odin-Abstractions/obj/Debug/net5.0/Odin-Abstractions.csprojAssemblyReference.cache
+/home/roland/aspnetcore/Odin/Odin-Abstractions/obj/Debug/net5.0/Odin-Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/home/roland/aspnetcore/Odin/Odin-Abstractions/obj/Debug/net5.0/Odin-Abstractions.AssemblyInfoInputs.cache
+/home/roland/aspnetcore/Odin/Odin-Abstractions/obj/Debug/net5.0/Odin-Abstractions.AssemblyInfo.cs
+/home/roland/aspnetcore/Odin/Odin-Abstractions/obj/Debug/net5.0/Odin-Abstractions.csproj.CoreCompileInputs.cache
+/home/roland/aspnetcore/Odin/Odin-Abstractions/obj/Debug/net5.0/Odin-Abstractions.dll
+/home/roland/aspnetcore/Odin/Odin-Abstractions/obj/Debug/net5.0/ref/Odin-Abstractions.dll
+/home/roland/aspnetcore/Odin/Odin-Abstractions/obj/Debug/net5.0/Odin-Abstractions.pdb
