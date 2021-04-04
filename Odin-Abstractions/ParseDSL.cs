@@ -36,8 +36,9 @@ public class ParseDSL{
 
     public string ToSequence(string input__){
         var input = prepare(input__);
-        if (getType(input)==Odin_Abstractions.BNF.Atom.Tupple)
-            return input.Substring(1, input.Length-1);
+        switch (getType(input)){
+            case Odin_Abstractions.BNF.Atom.Tupple: return input.Substring(1, input.Length-1);
+        };
         return input;
     }
      public int countStringDelims(string input){
@@ -196,7 +197,7 @@ public class ParseDSL{
                 return lst;
             };
             case Odin_Abstractions.BNF.Atom.Tupple:
-                return Atom(toSequence(input));
+                return Atom(ToSequence(input));
             case Odin_Abstractions.BNF.Atom.None:
                 return input;
             
